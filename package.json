@@ -1,0 +1,29 @@
+{
+  "name": "rmtft",
+  "version": "1.0.0",
+  "description": "Description of your package.",
+  "main": "index.js",
+  "keywords": [
+    "vite",
+    "react",
+    "mui",
+    "tailwindcss"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebNaresh/rmtft.git"
+  },
+  "author": "Naresh Bhosale",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "transfyvthree": "./bin/cli.js"
+  },
+  "bugs": {
+    "url": "https://github.com/WebNaresh/rmtft/issues"
+  },
+  "homepage": "https://github.com/WebNaresh/rmtft#readme"
+}
